@@ -1,2 +1,2 @@
-# AnimalTrading
+# AnimalTradingCards
 AnimalTradingCards
